@@ -2,7 +2,7 @@
 You have been hired as a data analyst for a cybersecurity company. The company wants to improve its security posture by better understanding recent cybersecurity incidents. Your task is to create a Power BI dashboard that provides key insights into the frequency, types, and impact of cybersecurity incidents over the past year. The dashboard will be used by senior management to make informed decisions about security investments and priorities.
 
 ## Dataset:
-The dataset you will create includes information about different cybersecurity incidents that have occurred over a 12-month period. The dataset should include the following fields:
+The dataset you will create includes information about different cybersecurity incidents that have occurred over a 12-month period. The dataset should resemble the following example:
 
 | Month      | Incident Type | Number of Incidents | Affected Systems | Average Downtime (Hours) | Financial Impact (€) | Severity (1-5) |
 |------------|---------------|---------------------|------------------|--------------------------|----------------------|----------------|
